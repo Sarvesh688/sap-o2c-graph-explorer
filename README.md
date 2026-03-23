@@ -2,8 +2,8 @@
 
 A context graph system with LLM-powered natural language query interface for SAP Order-to-Cash data.
 
-**Live demo:** [your-app.vercel.app](https://your-app.vercel.app)  
-**GitHub:** [github.com/your-username/sap-o2c-graph](https://github.com/your-username/sap-o2c-graph)
+**Live demo:** [your-app.vercel.app](https://sap-o2c-graph-explorer-frontend.vercel.app/)  
+**GitHub:** [github.com/your-username/sap-o2c-graph](https://github.com/Sarvesh688/sap-o2c-graph-explorer)
 
 ---
 
